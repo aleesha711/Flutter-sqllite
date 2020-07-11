@@ -1,0 +1,4 @@
+#Sat Jul 11 11:12:07 PKT 2020
+base.0=/home/vend/Downloads/fluttertraining-favourites_app_sqllite(1)/fluttertraining-favourites_app_sqllite/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
